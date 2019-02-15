@@ -40,7 +40,7 @@ graphs on one web page. Graphs are created from Iframes provided by "ThingSpeak.
 11. Free, "000webhost powered by HOSTINGER" is used for second website.
 
 12. Two websites,one sketch: "NTP_Time-Synced_Web_Interface.ino."
-https://tinyurl.com/500-weather --Desktop server (port forwarded) --this one has a file
+https://bit.ly/2DDV5zV --Desktop server (port forwarded) --this one has a file
 browser, selected file can be downloaded.
 https://observations-weather.000webhostapp.com/ Hosted website --no file browser due to hosted
 domain server restrictions (free hosting service). Hosted server "sleeps" one hour every 24
@@ -62,4 +62,4 @@ Compiling tabbed version source:
 
 Make sure all files are in a single folder; with Arduino IDE 1.8.5 installed and ESP8266 Community version 2.4.1 installed, double click "NTP_Timed-Synced_Web_Interface.ino."  Compile as you would a non-tabbed source code.
 
-Advantage of tabbed compiling is for complex, lengthy source code --there is less scrolling to find code.
+Advantage of tabbed compiling is for complex, lengthy source code --there is less scrolling to find code.   
